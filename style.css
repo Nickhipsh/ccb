@@ -1,0 +1,202 @@
+/* Helper Styles: Do not Delete */
+body {
+	margin:  0;
+	padding:  0;
+	box-sizing:  border-box;
+
+}
+
+/* Put your CSS Styles Below this Line */
+
+h1 {
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 45px;
+
+}
+
+h2 {
+	font-family: 'Fira Sans Condensed', sans-serif;
+font-size: 40px;
+}
+
+h3 {
+	font-family: 'Fira Sans Condensed', sans-serif;
+font-size: 39px;
+}
+
+h4 {
+	font-family: 'Indie Flower', cursive;
+font-size: 32px;
+}
+
+h5 {
+	font-family: 'Fira Sans Condensed', sans-serif;
+font-size: 24px;
+}
+
+p {
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 48px;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: space-between;
+}
+nav li {
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 54px;
+	list-style-type: none;
+}
+
+header {
+	background-color:  #C29274;
+	padding: 0 5% 50px 5%;
+	text-align: center;
+}
+
+.logo {
+	margin: 0 auto;
+	width: 350px;
+
+}
+
+.macaroon {
+	/*margin: 0 auto;*/
+	width: 50%;
+	/*height: 400px;*/
+}
+
+.hours {
+	display: flex;
+	justify-content: space-between;
+}
+
+.hours h1 {
+	width:  40%;
+}
+
+section.main {
+	background-color:  #C29274;
+	padding: 0 5%;
+
+}
+
+.location-about {
+	display: flex;
+}
+
+.specials {
+	background-color:  #D8D8D8;
+	padding: 25px 5%;
+	text-align: center;
+}
+
+.special-items {
+	display: flex;
+	text-align: center;
+	justify-content: space-between;
+}
+
+.special-items h4 {
+	width: 30%;
+}
+.specials-title {
+
+}
+.socials {
+	background-color:  #C29274;
+}
+.social-items {
+	display: flex;
+	justify-content: space-between;
+	padding: 0 5%;2
+}
+
+.popular-items {
+	display: flex;
+}
+
+.food-items {
+	display: flex;
+}
+.croissant {
+	width: 25%;
+	border-radius: 50%;
+
+}
+
+.bagel {
+	width: 25%;
+	border-radius: 50%;
+
+}
+
+.bread {
+	width: 25%;
+	border-radius: 50%;
+
+}
+
+.muffin {
+	width: 25%;
+	border-radius: 50%;
+
+}
+
+
+section.menu-circles {
+	background-color:  #C29274;
+	display: flex;
+	justify-content: space-between;
+}
+.item-circle {
+	width:  20%;
+	text-align: center;
+}
+.item-circle img {
+	width:  100%;
+}
+
+section.menu-square {
+	background-color:  #C29274;
+	display: flex;
+	justify-content: space-between;
+}
+
+.item-square {
+	width:  20%;
+	text-align: center;
+}
+.item-square img {
+	width:  100%;
+}
+
+.menu-coffee {
+	background-color:  #C29274;
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+
+section {
+		background-color:  #C29274;
+
+}
+
+section.main-contact {
+	background-color:  #D8D8D8;
+	padding: 50px 0;
+	text-align: center;
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.cname-text {
+	padding:  4%;
+}
+
+textarea {
+	height: 200px;
+	width: 300px;
+}
